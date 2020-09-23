@@ -1,0 +1,121 @@
+body{
+    font-family: 'Catamaran', sans-serif;
+    background-color: #fdfdc3 !important;
+}
+
+#brand1{
+    color: #492c5c;
+    font-size: 2.6rem;
+    font-weight: 400;
+}
+
+#Mainbar{
+    background-color: #e5d3eb;
+}
+
+.navbar li{
+    font-size: 1.6rem;
+}
+
+#Mainbar .nav-link{
+    color: #f2f2f2;
+}
+
+#Mainbar .nav-link:hover{
+    color: #492c5c !important;
+}
+#pic{
+    margin-top: 6rem;
+}
+
+.jumbotron{
+    color: #492c5c;
+    background-color: transparent !important;
+}
+
+#izan{
+    font-weight: 400;
+    font-size: 4.2rem;
+}
+
+#know{
+    font-weight: 400;
+    background-color: #e5d3eb;
+}
+#logo{
+    width: 5px;
+    height: 4px;
+}
+
+#slash{
+    color: #e5d3eb;
+}
+
+#know:hover{
+    background-color: #d8a1ea;
+}
+#aboutsec{
+    margin-top: 6.4rem;
+    color: #492c5c;
+}
+
+#skillsec{
+    color: #492c5c;
+    border-radius: 20px 80px;
+    background-color: #fdfdc3;
+}
+
+#aboutme{
+    font-weight: 400;
+    font-size: 4.6rem;
+}
+
+#outterskill{
+    background-image: url(hello.jpg); 
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#words{
+    margin: 1.1rem; 
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 1.6rem;
+    border-left: solid #e5d3eb 6px;
+    border-bottom: solid #e5d3eb 6px;
+    text-align: justify;
+    font-size: 1.4rem;
+}
+
+.fancyborder{
+    border-radius: 20px 80px;
+    border-left: solid #e5d3eb 6px;
+    border-bottom: solid #e5d3eb 6px;
+}
+#words2{
+    background-color: #fdfdc3;
+    margin: 1.1rem;
+    text-align: justify;
+    font-size: 1.5rem;
+}
+
+#skillstext{
+    color: #492c5c;
+    font-size: 4.6rem;
+    font-weight: 400;
+}
+
+#pbar{
+    background-color: #492c5c !important;
+}
+
+#pbar:hover{
+    background-color: #e5d3eb !important;
+}
+
+#skill1{
+    font-weight: 500;
+    padding-right: 4rem;
+    margin-bottom: 2rem;
+    font-size: 2.1rem;
+}
